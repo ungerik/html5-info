@@ -1,2 +1,2 @@
-## See https://github.com/ungerik/html5-info/wiki
+### See the [Wiki](https://github.com/ungerik/html5-info/wiki)!
 
